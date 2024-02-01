@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeCRUD", "EmployeeCRUD\EmployeeCRUD.csproj", "{041D86DD-049E-443B-BBCC-1BE29587BD25}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBastBackUP", "DataBastBackUP", "{ECE84DD3-3B7C-4F13-8B10-72DC6B55A7FB}"
+	ProjectSection(SolutionItems) = preProject
+		EmployeeCRUD_101 = EmployeeCRUD_101
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
